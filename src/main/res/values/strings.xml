@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">art space app</string>
+    <string name="title1">Dove art by picasso</string>
+    <string name="title2">Child with a Dove
+    art by picasso</string>
+    <string name="title3">Jacqueline art by picasso</string>
+    <string name="title4">Family of Saltimbanques</string>
+    <string name="year1">1949</string>
+    <string name="year2">1901</string>
+    <string name="year3">1961</string>
+    <string name="year4">1905</string>
+
+
+</resources>
